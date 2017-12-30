@@ -4,7 +4,7 @@
   "description": "A tool to check the address balance for multiple bitcoin addresses.",
   "main": "bitcoin-bulk-balance-check.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node bitcoin-bulk-balance-check.js"
   },
   "repository": {
     "type": "git",
