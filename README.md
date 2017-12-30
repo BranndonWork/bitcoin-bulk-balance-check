@@ -29,6 +29,6 @@ Notice: blockchain.info has rate limits. Set the delay value above to the number
 
 Information:   
 To buy bitcoin, and put some Satoshi's in both of our accounts, sign up at [coinbase ($10 free when you spend your first $100)](https://g-o.co/coinbase).
-To buy bitcoin, but you don't want to use the referral link, sign up at [coinbase](https://www.coinbase.com/join).
-To throw bitcoin at me, [do it here](https://blockchain.info/address/1Bitcoin4MFhhKCvkh2ajrZNAEwoRwiuR2)
+To buy bitcoin, but you don't want to use the referral link, sign up at [coinbase](https://www.coinbase.com/join).  
+To throw bitcoin at me, [do it here](https://blockchain.info/address/1Bitcoin4MFhhKCvkh2ajrZNAEwoRwiuR2).
 
